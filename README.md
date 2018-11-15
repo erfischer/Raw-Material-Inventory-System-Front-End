@@ -8,8 +8,10 @@ Tech Stack:
 - Back End : Node.js
 - Front End : Javascript/React
 
-Code Respository Links:
+Respository Links:
 - [Back End Respository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End)
+
+-[Artifacts Repository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts)
 
 Important Links:
 - [Link to Requirements Document](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/Requirements)
