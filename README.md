@@ -11,7 +11,7 @@ Tech Stack:
 Respository Links:
 - [Back End Respository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End)
 
--[Artifacts Repository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts)
+- [Artifacts Repository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts)
 
 Important Links:
 - [Link to Requirements Document](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/Requirements)
