@@ -5,7 +5,7 @@ Team Members: Blake Prescott, Evan Fischer, Ryan Denney
 
 Tech Stack:
 - Database : MySQL
-- Back End : Node.js
+- Back End : Python/Django
 - Front End : Javascript/React
 
 Respository Links:
