@@ -5,8 +5,9 @@ Team Members: Blake Prescott, Evan Fischer, Ryan Denney
 
 Tech Stack:
 - Database : MySQL
-- Back End : Python/Django
-- Front End : Javascript/React
+- Back End : PhP/Javascript
+- Front End : Javascript/HTML/CSS
+
 
 Respository Links:
 - [Back End Respository](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End)
