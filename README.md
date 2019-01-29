@@ -4,8 +4,8 @@ Bassam wants to utilize a software to track the raw material in his restaurant. 
 Team Members: Blake Prescott, Evan Fischer, Ryan Denney
 
 Tech Stack:
-- Database : MySQL
-- Back End : PhP/Javascript
+- Database : SQL
+- Back End : Python/Django
 - Front End : Javascript/HTML/CSS
 
 
