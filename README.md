@@ -20,3 +20,5 @@ Important Links:
 - [Link to Client Meeting Notes](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/ClientMeetingNotes)
 - [Link to Team Meeting Notes](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/TeamMeetingNotes)
 - [Link to Presentations](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/Presentations)
+
+Note: The front end requires Node.js at the moment.
