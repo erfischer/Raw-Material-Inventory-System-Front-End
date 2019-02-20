@@ -1,36 +1,28 @@
 import React, { Component } from 'react';
 import './App.css';
-import Material from './Components/Material';
 
 class App extends Component {
-  state = {
-    Material:[
-      {name: '', amount: '', amountPrepared: ''}
-    ],
-    otherState:''
-  }
-
-  addMaterialHandler = (event) => {
-    this.setState({
-      Material:[
-        {name: 'Lamb', amount: '50', amountPrepared: '0'}
-      ]
-    })
-  }
-
   render() {
-    return ( 
-      <div className="App">
-        <header>Raw Material Inventory Tracking System</header>
-        <header>Summary</header>
-        <Material
-          name={this.state.Material[0].name}
-          amount={this.state.Material[0].amount}
-          amountPrepared={this.state.Material[0].amountPrepared}
-        />
-        <button onClick={this.addMaterialHandler}>Add Material</button>
-      </div>
-    );
+      return  <div classname="wrapper">
+      <div className="form-wrapper">
+      <h1>Create a new account</h1>
+      <form onSubmit={this.handleSubmit} noValidate>
+      <div className= "firstName"> 
+      <label htmlFor="firstName"> First Name</label>
+      <input type="text" className= "" placeholder="First Name" type="text" name="firstName" noValidate
+      onChange={this.handleChange}
+      />
+
+    </div>
+     <div className="lastName">
+     <label htmlFor="emaillastName">Last Name</label>
+     <input type="text" className= "" Placeholder="Last Name" type="text" name="lastName" noValidate 
+     onChange={this.handleChange}
+     />
+     </div>
+         </form>
+       </div>
+  </div>;
   }
 }
 
