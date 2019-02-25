@@ -15,10 +15,24 @@ class App extends Component {
 
     </div>
      <div className="lastName">
-     <label htmlFor="emaillastName">Last Name</label>
+     <label htmlFor="lastName">Last Name</label>
      <input type="text" className= "" Placeholder="Last Name" type="text" name="lastName" noValidate 
      onChange={this.handleChange}
      />
+     </div>
+     
+     <div className="email">
+     <label htmlFor="email"> Email</label>
+     <input type="text" className= "" Placeholder="Email" type="text" name="email" noValidate
+      onChange={this.handleChange}
+     />
+
+     <div className="password">
+     <label htmlFor="password"> Password</label>
+     <input type="text" className= "" Placeholder="Password" type="text" name="password" noValidate
+     onChange={this.handleChange} 
+     />
+     </div>  
      </div>
          </form>
        </div>
