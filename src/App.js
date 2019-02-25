@@ -22,7 +22,7 @@ class App extends Component {
      </div>
      
      <div className="email">
-     <label htmlFor="email"> Email</label>
+     <label htmlFor="email"> Email Acct</label>
      <input type="text" className= "" Placeholder="Email" type="text" name="email" noValidate
       onChange={this.handleChange}
      />
