@@ -32,6 +32,12 @@ class App extends Component {
      <input type="text" className= "" Placeholder="Password" type="text" name="password" noValidate
      onChange={this.handleChange} 
      />
+
+     </div>
+     <div className="createAccount">
+     <button type="submit">Create Account</button>
+     <small>Already have one? </small>
+
      </div>  
      </div>
          </form>
